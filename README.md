@@ -67,10 +67,10 @@ Automated backend tests ensure your expense data is handled correctly and the ap
    
 3. **Run The Fast API Server**
    ```bash
-   cd C:\Users\Username\codebasics_python_course_code\Project_expense_management\backend
+   cd C:\Users\username\Project_expense_management\backend
    uvicorn server:app --reload
    
 4. **Run Streamlit App**
    ```bash
-   cd C:\Users\mbarapatre\Downloads\codebasics_python_course_code\Project_expense_management\frontend
+   cd C:\Users\username\Project_expense_management\frontend
    streamlit run .\app.py
