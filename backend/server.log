@@ -1,0 +1,92 @@
+2025-05-16 20:30:00,143 - db_helper.log - INFO - Ran Method -to delete expense of date 2024-08-15
+2025-05-16 20:30:00,174 - db_helper.log - INFO - Ran Method -to insert expense of date 2024-08-15, amount:300.0, category:Food,note:Panipuri
+2025-05-16 20:30:12,556 - db_helper.log - INFO - Ran Method -to fecth expense of date 2024-08-15
+2025-05-16 20:31:13,612 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-15
+2025-05-16 20:31:56,393 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-15
+2025-05-18 11:45:44,769 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 11:45:53,508 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-21
+2025-05-18 11:46:08,583 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-23
+2025-05-18 11:47:48,760 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-15
+2025-05-18 11:48:53,365 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 11:49:09,380 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-02
+2025-05-18 11:49:15,483 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:03:27,520 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:03:38,846 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:04:09,286 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:04:35,215 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:05:55,169 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:08:05,161 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:19:52,332 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-10
+2025-05-18 12:19:56,708 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-17
+2025-05-18 12:19:59,478 - db_helper - INFO - Ran Method -to fecth expense of date 2023-08-17
+2025-05-18 12:20:33,993 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 12:20:51,720 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-16
+2025-05-18 12:20:55,026 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-09
+2025-05-18 12:20:58,539 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-06
+2025-05-18 12:21:02,005 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-05
+2025-05-18 12:37:01,559 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-05
+2025-05-18 12:37:05,777 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 12:37:26,516 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 12:37:26,620 - db_helper - INFO - Ran Method -to delete expense of date 2024-08-01
+2025-05-18 12:37:26,653 - db_helper - INFO - Ran Method -to insert expense of date 2024-08-01, amount:1227.0, category:Rent,note:Monthly rent payment
+2025-05-18 12:37:26,695 - db_helper - INFO - Ran Method -to insert expense of date 2024-08-01, amount:300.0, category:Food,note:Groceries for the week
+2025-05-18 12:37:26,717 - db_helper - INFO - Ran Method -to insert expense of date 2024-08-01, amount:1200.0, category:Rent,note:Monthly rent payment
+2025-05-18 12:37:26,743 - db_helper - INFO - Ran Method -to insert expense of date 2024-08-01, amount:300.0, category:Food,note:Groceries for the week
+2025-05-18 12:37:26,766 - db_helper - INFO - Ran Method -to insert expense of date 2024-08-01, amount:4.0, category:Entertainment,note:testttt
+2025-05-18 12:37:54,032 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:04:26,630 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:07:38,362 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:09:59,399 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:10:58,115 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:11:01,786 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 14:12:06,638 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-20 to end_date:2024-09-01
+2025-05-18 14:18:14,726 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-02
+2025-05-18 14:42:28,874 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-02
+2025-05-18 14:46:03,478 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-02
+2025-05-18 15:05:22,763 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:05:58,448 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:06:02,702 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:06:58,784 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:07:43,214 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:09:30,449 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:10:37,053 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:15:01,784 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:15:03,709 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:15:29,323 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-02
+2025-05-18 15:16:00,110 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:16:03,123 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:16:38,454 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:16:40,297 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:19,966 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:22,068 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:26,501 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:29,265 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:32,298 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:34,836 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:36,218 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:38,752 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:18:39,948 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:19:19,469 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:19:20,978 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:19:21,023 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:19:46,414 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:19:48,485 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:19:48,525 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:28:58,037 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:28:59,781 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:28:59,828 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:29:33,209 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:29:34,843 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:29:34,875 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:30:06,085 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:30:07,967 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:30:08,019 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:31:23,312 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:31:25,712 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:31:25,758 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:36:42,756 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:36:42,794 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 15:37:21,292 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:37:23,121 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
+2025-05-18 15:37:23,152 - db_helper - INFO - ran method to get fetch_expense_summary for start_date:2024-08-02 to end_date:2024-09-03
+2025-05-18 16:25:10,864 - db_helper - INFO - Ran Method -to fecth expense of date 2024-08-01
